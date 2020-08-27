@@ -63,7 +63,7 @@ text("About:",80,527);
 textSize(25);
 fill("Black");
 text("A mother's tear cannot bring back her sons life...but your blood can !!!",80,587);
-text("This website brings donors and people who require blood donation together.",80,627);
+text("This app brings donors and people who require blood donation together.",80,627);
 text("It allows a donor to post the type of blood he/she is willing to donate. ",80,667);
 text("A person who is need of blood donation can see the donors post based on the blood type",80,704);
 text("(He Should Not Post)and can contact the donor through his G-mail or phone number respectively.  ",80,744);
