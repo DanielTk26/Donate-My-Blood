@@ -12,7 +12,7 @@ back_pic = loadImage("images/back.jpg");
 
 
 function setup () {
- createCanvas(displayWidth,1300);
+ createCanvas(displayWidth,1500);
 
  back = createSprite(displayWidth/2-10,25);
  back.addImage(back_pic);
@@ -63,7 +63,7 @@ text("About:",80,527);
 textSize(25);
 fill("Black");
 text("A mother's tear cannot bring back her sons life...but your blood can !!!",80,587);
-text("This app brings donors and people who require blood donation together.",80,627);
+text("This platform brings donors and people who require blood donation together.",80,627);
 text("It allows a donor to post the type of blood he/she is willing to donate. ",80,667);
 text("A person who is need of blood donation can see the donors post based on the blood type",80,704);
 text("(He Should Not Post)and can contact the donor through his G-mail or phone number respectively.  ",80,744);
@@ -81,7 +81,7 @@ text("How To Use:",80,967);
 
 textSize(25);
 fill("Black");
-text("This is the Home Page of the website, where two buttons are present.",80,1027);
+text("This is the Home Page of the platform, where two buttons are present.",80,1027);
 text("The button on the left is for donating yor blood...and the one on",80,1067);
 text("the right is to find a donor. The donating button leads you to the website ",80,1107);
 text("where you have to post your name, blood type, etc... for the",80,1147);
@@ -90,6 +90,10 @@ text("you to the same website where you can search for a donor according to your
 text("blood type. The Person who is searching for a donor should not post anything.",80,1267);
 
 
+
+textSize(28);
+fill("Black");
+text("If there are any issues please contact me via G-mail. DanielTk999@gmail.com",30,1467);
 
 
 }
